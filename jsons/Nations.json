@@ -5,39 +5,38 @@
 		"adjective": ["Frostborn "],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
-		"personality": "Ingenious Artisan",
+		"personality": "Herald of Ever Winter",
 		
-		"startIntroPart1": "Most majestic King Higba, the leader of the Dwarven Kingdom! Your nation has ushered onto new age owing to your reign. The mountainous land of Dwarven land surely will brings forth advances and breakthroughs.",
-		"startIntroPart2": "King Higba, your brilliant mind echoed throughout the lands. Will you stand unchallenged like a mountain? Will you reach the top and protect the Dwarven's land? Can you build a civilization that will stand the test of time?",
-		
-		"declaringWar": "You have transgressed our agenda, we won't let you have it your way!",
-		"attacked": "Recourse to war is regrettable, but necessary, when dealing with vipers like you.",
-		"defeated": "I'm sorry, I've failed my people.",
-		"introduction": "Greetings stranger, I am King Higba of Dwarven Kingdom. Leader of the Dwarven, conqueror of the mountains.",
-		
-		"neutralHello": "Greetings, your Highness.",
-		"hateHello": "What now?",
-		"tradeRequest": "I think it would be beneficial for both of us to conduct in a trade.",
-		
-		"outerColor": [35, 50, 116]
-		"innerColor": [194, 194, 194],
+		"startIntroPart1": "Boreas, Harbinger of Frost and ruler of the Frostborne. Your breath stills the wind and your gaze turns rivers to glass. The world awakens to your eternal winter.",
+		"startIntroPart2": "Will your empire spread like rime across the earth? Will your rule freeze time itself? Show them, O Frostborn, that the cold is not death — it is dominion.",
+				
+		"declaringWar": "Your flame will flicker and die beneath the coming frost.",
+		"attacked": "You strike at ice eternal. It does not shatter — it waits.",
+		"defeated": "Even glaciers break... but winter always returns.",
+		"introduction": "I am Boreas, voice of the blizzard. Tread lightly, for you walk frozen ground.",
+				
+		"neutralHello": "The chill does not bite... unless provoked.",
+		"hateHello": "You will know true stillness — when your world freezes over.",
+		"tradeRequest": "A shard of ice can reflect many truths. Let us see what benefit lies between us.",
+				
+		"outerColor": [100, 149, 237],
+		"innerColor": [220, 240, 255],
+
 		"uniqueName": "Ever Winter",
-		"uniques": ["Comment [+1 [Production] every 2 eras for cities settled on [Hill]]",
-					"Comment [+1 [Science] and +1 [Production] in all cities for every Golden Ages achieved]",
+		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement of enemy units]",
+					"Comment [Special Unit can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in icy tiles]",
+					"Comment [Capital city gains more stats per every frozen tile in the map and for every snow tile in their border, other cities can slowly gain the same buff overtime]",
+
 					
-					"Instantly provides [1] [GA Counter] <upon entering a Golden Age> <hidden from users>",
-					"[+1 Science] [in all cities] <for every [GA Counter]> <hidden from users>",
-					"[+1 Production] [in all cities] <for every [GA Counter]> <hidden from users>",
-					"[+1 Production] in cities on [Hill] tiles <starting from the [Classical era]> <hidden from users>",
-					"[+1 Production] in cities on [Hill] tiles <starting from the [Renaissance era]> <hidden from users>",
-					"[+1 Production] in cities on [Hill] tiles <starting from the [Modern era]> <hidden from users>",
-					"[+1 Production] in cities on [Hill] tiles <starting from the [Information era]> <hidden from users>"],
-		"cities": ["Dhin Kahldur","Thal Wuhrum","Nigh Burimm","Kharn Molduhr","Vil Lodihr","Dhirn Dural","Vol Torum","Dar Burimm","Kug Boldir","Kugh Lodahr","Kar Doral","Mol Kolduhr",
-			"Murn Thurim","Tharn Buldohr","Hug Burim","Tham Olihm","Khogh Toduhr"],
+					],
+		"cities": ["Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
+					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
+					"Winterhold", "Hailmar", "Frozen Anvil", "Thrymspire"],
 		"civilopediaText": [
-			{"text":"Dwarven Kingdom is a dwarf civilization. Led by its King, Higba, Dwarven Kingdom prospers. Dwarves are very skilled at mining and scientific progression."},
-			{"text":"Dwarven Kingdom has great [Production] and [Science] output."},
-			{"text":"You want to settles your cities on Hill, especially next to Mountain."},
+			{"text":"The Frostborne are a civilization shaped by endless winter. Led by the enigmatic Boreas, the Frostborne embraces cold not as a curse, but as a source of strength."},
+			{"text":"The Frostborne start slow but get going later on in the game"},
+			{"text":"You want to quickly spread the frozen tiles around the map as each tile will contribute to your cities gaining more stats."},
+			{"test":"Snow type tiles also count toward the stat bonus but they need to be in your borders to count"}
         ]
 	},
 ]
