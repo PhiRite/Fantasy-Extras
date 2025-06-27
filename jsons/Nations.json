@@ -26,8 +26,8 @@
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement of enemy units]",
 					"Comment [Special Unit can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in icy tiles]",
 					"Comment [Capital city gains more stats per every frozen tile in the map, this does not take in snowy tiles. other cities can slowly gain the same buff overtime]",
-
-					
+					"Comment [The Unique Unit is limited to 1 for every city]",
+					"Comment [Nation starts slow, but becomes unstoppable in the later game]"
 					],
 		"cities": ["Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
