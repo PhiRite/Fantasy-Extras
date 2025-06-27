@@ -1,0 +1,9 @@
+[
+    {
+		"name": "Permafrost",
+		"type": "TerrainFeature",
+		"occursOn": ["Grassland", "Plains", "Desert", "Snow", "Tundra"],
+		"movementCost": 1,
+		"uniques": ["Doesn't generate naturally"]
+	},
+]
