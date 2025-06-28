@@ -9,7 +9,9 @@
 		"promotions": ["Blessed of Boreas"],
 	    "uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]",
 					"Comment [Enters [Cryostasis] for 3 turns and heal 30 hp when reaching 10 hp]",
-					"Ignores terrain cost", "Limited to [1] per Civilization <for every [1] [Cities]>", 
+					"Comment [Can Call the [Eternal Freeze] Buffing ALL units for 10 turns]",
+					"Costs [500] [Everfrost Crystals]", "Cannot be purchased",
+					"Ignores terrain cost", "Limited to [1] per Civilization <for every [1] [Cities]>",
 					"[+1]% Strength <when attacking> <for every [10] [Winter's Grasp]> <hidden from users>",
 					"[+1]% Strength <when defending> <for every [15] [Winter's Grasp]> <hidden from users>",
 					
