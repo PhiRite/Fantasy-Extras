@@ -26,6 +26,10 @@
 					"No Sight <hidden from users>"]
 	},
 	{
+		"name": "Eternal Freeze Cooldown",
+		"uniques": ["Comment [Eternal Freeze is in cooldown]"]
+	},
+	{
 		"name": "Cryostasis Cooldown",
 		"uniques": ["Comment [Cryostasis is in cooldown]"]
 	},
