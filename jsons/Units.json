@@ -2,13 +2,14 @@
     {
 		"name": "Herald of Everwinter",
 		"unitType": "Archery",
-		"movement": 2,
+		"movement": 3,
 		"strength": 5,
-		"rangedStrength": 7,
+		"rangedStrength": 10,
 		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
+	    "uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]", 
+					"Ignores terrain cost", "Limited to [1] per Civilization <for every [1] [Cities]>", 
+					"[+1]% Strength <when attacking> <for every [10] [Winter's Grasp]> <hidden from users>",
+					"[+1]% Strength <when defending> <for every [15] [Winter's Grasp]> <hidden from users>",],
 		"attackSound": "arrow"
 	},
 ]
