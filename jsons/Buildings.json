@@ -1,0 +1,35 @@
+[
+    {
+		"name": "Obelisk of Permafrost",
+		"uniqueTo": "Frostborne",
+		"maintenance": 0,
+        "cost": 150,
+        "replaces": "Palace",
+		"percentStatBonus": {"science": -25, "food": -25},
+		"uniques": ["Comment [As Permafrost spreads, the Obelisk draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
+                    "[+1 Gold, +1 Production] <for every [5] [Winter's Grasp]>", "[+1 Faith, +1 Food] <for every [7] [Winter's Grasp]>", 
+                    "[+1 Science, +1 Culture] <for every [9] [Winter's Grasp]>", "[+1 Happiness] <for every [11] [Winter's Grasp]>",
+					"Never destroyed when the city is captured", "Indicates the capital city",
+					],
+		"civilopediaText": [
+			{"text": "An ancient spire that hums with frozen energy, the Obelisk of Frost empowers the Frostborne as their dominion of ice expands."},
+        ]
+	},
+    {
+		"name": "Frozen Monolith",
+		"uniqueTo": "Frostborne",
+		"maintenance": 0,
+        "cost": 150,
+        "replaces": "Courthouse",
+		"percentStatBonus": {"science": -25, "food": -50},
+		"uniques": ["Comment [As Permafrost spreads, the Monolith draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
+                    "[+1 Gold, +1 Production] <for every [5] [Winter's Grasp]>", "[+1 Faith, +1 Food] <for every [7] [Winter's Grasp]>", 
+                    "[+1 Science, +1 Culture] <for every [9] [Winter's Grasp]>", "[+1 Happiness] <for every [11] [Winter's Grasp]>",
+					"Never destroyed when the city is captured", "Only available <in [non-Capital] cities> <if [Obelisk of Permafrost] is constructed>"
+					],
+		"requiredTech": "Philosophy",
+		"civilopediaText": [
+			{"text": "Formed through the power of the Obelisk of Permafrost, these lesser monoliths anchor the spreading ice, amplifying the Frostborne’s dominion with each frozen stone raised."},
+        ]
+	},
+]
