@@ -2,10 +2,10 @@
     {
 		"name": "Frostborne",
 		"leaderName": "Boreas",
-		"adjective": ["Frostborn "],
+		"adjective": ["Frostborn"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
-		"personality": "Herald of Ever Winter",
+		"personality": "Herald of Everwinter",
 		
 		"startIntroPart1": "Boreas, Harbinger of Frost and ruler of the Frostborne. Your breath stills the wind and your gaze turns rivers to glass. The world awakens to your eternal winter.",
 		"startIntroPart2": "Will your empire spread like rime across the earth? Will your rule freeze time itself? Show them, O Frostborn, that the cold is not death — it is dominion.",
@@ -22,7 +22,7 @@
 		"outerColor": [100, 149, 237],
 		"innerColor": [220, 240, 255],
 
-		"uniqueName": "Ever Winter",
+		"uniqueName": "Everwinter",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units]",
 					"Comment [Special Units are limited to 1 for every city but can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in [Permafrost] tiles]",
 					"Comment [Capital city gains more stats per every Permafrost] in the map. other cities can slowly gain the same buff overtime]",
