@@ -1,0 +1,23 @@
+[
+    {
+		"name": "Winter’s Grasp",	
+		"resourceType": "Strategic",
+		"uniques": [
+			"Not shown on world screen <for [non-[Frostborne]] Civilizations>", "Doesn't generate naturally",
+			"Cannot be traded", 
+			"Excluded from map editor", 
+			"Will not be displayed in Civilopedia"
+		]
+	},
+    {
+		"name": "Everfrost Crystals",	
+		"resourceType": "Strategic",
+		"uniques": [
+			"Not shown on world screen <for [non-[Frostborne]] Civilizations>", "Doesn't generate naturally",
+            "Stockpiled",
+			"Cannot be traded", 
+			"Excluded from map editor", 
+			"Will not be displayed in Civilopedia"
+		]
+	},
+]
