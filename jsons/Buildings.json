@@ -9,7 +9,7 @@
 		"uniques": ["Comment [As Permafrost spreads, the Obelisk draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
                     "[+1 Gold, +1 Production] <for every [5] [Winter's Grasp]>", "[+1 Faith, +1 Food] <for every [7] [Winter's Grasp]>", 
                     "[+1 Science, +1 Culture] <for every [9] [Winter's Grasp]>", "[+1 Happiness] <for every [11] [Winter's Grasp]>",
-					"Never destroyed when the city is captured", "Indicates the capital city",
+					"Never destroyed when the city is captured", "Indicates the capital city", ""
 					],
 		"civilopediaText": [
 			{"text": "An ancient spire that hums with frozen energy, the Obelisk of Frost empowers the Frostborne as their dominion of ice expands."},
