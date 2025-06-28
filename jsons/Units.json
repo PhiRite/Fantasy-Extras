@@ -6,6 +6,7 @@
 		"strength": 5,
 		"rangedStrength": 10,
 		"cost": 40,
+		"promotions": ["Blessed of Boreas"],
 	    "uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]", 
 					"Ignores terrain cost", "Limited to [1] per Civilization <for every [1] [Cities]>", 
 					"[+1]% Strength <when attacking> <for every [10] [Winter's Grasp]> <hidden from users>",
