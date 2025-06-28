@@ -23,13 +23,13 @@
 		"innerColor": [220, 240, 255],
 
 		"uniqueName": "Ever Winter",
-		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement of enemy units]",
-					"Comment [Special Unit can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in icy tiles]",
-					"Comment [Capital city gains more stats per every frozen tile in the map, this does not take in snowy tiles. other cities can slowly gain the same buff overtime]",
-					"Comment [The Unique Unit is limited to 1 for every city]",
-					"Comment [Nation starts slow, but becomes unstoppable in the later game]"
+		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units]",
+					"Comment [Special Units are limited to 1 for every city but can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in [Permafrost] tiles]",
+					"Comment [Capital city gains more stats per every Permafrost] in the map. other cities can slowly gain the same buff overtime]",
+
+					
 					],
-		"cities": ["Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
+		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
 					"Winterhold", "Hailmar", "Frozen Anvil", "Thrymspire"],
 		"civilopediaText": [
