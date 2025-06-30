@@ -27,7 +27,9 @@
 					"Comment [Special Units are limited to 1 for every city but can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in [Permafrost] tiles]",
 					"Comment [Capital city gains more stats per every [Permafrost] in the map. other cities can slowly gain the same buff overtime]",
 					"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
-					"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>"
+					"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
+					"Consumes [-1] [Everfrost Crystals] <for every [Permafrost Spread]>",
+					
 					
 					],
 		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
