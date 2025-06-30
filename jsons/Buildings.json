@@ -25,7 +25,7 @@
 		"uniques": ["Comment [As Permafrost spreads, the Monolith draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
                     "[+1 Gold, +1 Production] <for every [5] [Permafrost Spread]>", "[+1 Faith, +1 Food] <for every [7] [Permafrost Spread]>", 
                     "[+1 Science, +1 Culture] <for every [9] [Permafrost Spread]>", "[+1 Happiness] <for every [11] [Permafrost Spread]>",
-					"Never destroyed when the city is captured", "Only available <in [non-Capital] cities> <if [Obelisk of Permafrost] is constructed>"
+					"Never destroyed when the city is captured", "Only available <in [non-[Capital]] cities> <if [Obelisk of Permafrost] is constructed>"
 					],
 		"requiredTech": "Philosophy",
 		"civilopediaText": [
