@@ -6,6 +6,7 @@
 		"strength": 5,
 		"rangedStrength": 5,
 		"cost": 90,
+		"uniqueTo": "Frostborne",
 		"promotions": ["Blessing of Boreas"],
 	    "uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]",
 					"Comment [Enters [Cryostasis] for 3 turns and heal 30 hp when reaching 10 hp]",
