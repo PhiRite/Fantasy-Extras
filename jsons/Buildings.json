@@ -10,7 +10,7 @@
                     "[+1 Gold, +1 Production] <for every [3] [turns]>", "[+1 Faith, +1 Food] <for every [4] [turns]>", 
                     "[+1 Science, +1 Culture] <for every [7] [turns]>", "[+1 Happiness] <for every [9] [turns]>",
 					"Never destroyed when the city is captured", "Indicates the capital city", 
-					"Consumes [-1] [Everfrost Crystal] <for every [1] [turns]>"
+					"Consumes [-1] [Everfrost Crystals] <for every [1] [turns]>"
 					],
 		"civilopediaText": [
 			{"text": "An ancient spire that hums with frozen energy, the Obelisk of Permafrost empowers the Frostborne as their dominion of ice expands."},
@@ -27,7 +27,7 @@
                     "[+1 Gold, +1 Production] <for every [5] [turns]>", "[+1 Faith, +1 Food] <for every [6] [turns]>", 
                     "[+1 Science, +1 Culture] <for every [9] [turns]>", "[+1 Happiness] <for every [11] [turns]>",
 					"Never destroyed when the city is captured", "Only available <in [non-[Capital]] cities> <if [Obelisk of Permafrost] is constructed>",
-					"Consumes [-1] [Everfrost Crystal] <for every [1] [turns]>"
+					"Consumes [-1] [Everfrost Crystals] <for every [1] [turns]>"
 					],
 		"requiredTech": "Philosophy",
 		"civilopediaText": [
