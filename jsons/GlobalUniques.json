@@ -1,6 +1,6 @@
 {
     "name": "Global uniques",
-    "uniques": ["Provides [1] [Permafrost Spread] <for every [1] [[All] [Permafrost] Terrain Tiles]>"],
+    "uniques": ["Provides [1] [Permafrost Spread] <for every [1] [All [Permafrost] Tiles]> <for [Frostborne] Civilizations>"],
     "unitUniques": [
                     "[This Unit] gains the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Frostborne] Civilizations> <when number of [[Eternal Freeze] Units] is more than [0]>",
                     "[This Unit] loses the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Frostborne] Civilizations> <when number of [[Eternal Freeze] Units] is less than [1]>",
