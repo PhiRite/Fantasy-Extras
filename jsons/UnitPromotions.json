@@ -19,7 +19,7 @@
 		"name": "Cryostasis",
 		"uniques": ["Comment [This is unit is frozen, but is protected by a layer of ice.]",
 					"[This Unit] loses [999] movement <upon turn start> <hidden from users>",
-					"Cannot attack <hidden from users>", "Cannot move <hidden from users>", 
+					"Cannot attack <hidden from users>", "Cannot move", 
 					"[+30]% Strength <hidden from users>", 
 					"No defensive terrain bonus <hidden from users>", 
 					"Can only heal by pillaging <hidden from users>", 
