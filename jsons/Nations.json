@@ -23,14 +23,12 @@
 		"innerColor": [220, 240, 255],
 
 		"uniqueName": "Everwinter",
-		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units]",
-					"Comment [Special Units are limited to 1 for every city but can summon the Ever Winter, allowing all units to freeze over tiles and gain both damage and defense bonus in [Permafrost] tiles]",
-					"Comment [Capital city gains more stats per every [Permafrost] in the map. other cities can slowly gain the same buff overtime]",
+		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
+					"Comment [Special Units are limited to 1 for every city.]",
+					"Comment [Gains 1 [Everfrost Crystal] per turn for every turn.]",
+					"Comment [Capital city gains more stats per every turn. other cities can slowly gain the same buff overtime.]",
 					"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
-					"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
-					"Consumes [-1] [Everfrost Crystals] <for every [Permafrost Spread]>",
-					
-					
+					"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost].>",
 					],
 		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
