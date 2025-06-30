@@ -16,7 +16,7 @@
 					"[+1]% Strength <when defending> <for every [15] [Permafrost Spread]> <hidden from users>",
 					
 					"[This Unit] gains the [Cryostatis] status for [4] turn(s) <for units without [Cryostatis Cooldown]> <hidden from users>",
-					"[This Unit] heals [30] HP <upon gaining the [Cryostatis] status>",
+					"[This Unit] heals [30] HP <upon gaining the [Cryostasis] status>",
 					"[This Unit] gains the [Cryostatis Cooldown] status for [14] turn(s) <upon gaining the [Cryostatis] status> <hidden from users>",
 					
 					"[This Unit] gains the [Eternal Freeze] status for [10] turn(s) <when number of [[Eternal Freeze] Units] is more than [0]> <upon entering a [All] tile> <hidden from users>",
