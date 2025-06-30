@@ -16,7 +16,7 @@
 					"[+1]% Strength <when attacking> <for every [10] [Permafrost Spread]> <hidden from users>",
 					"[+1]% Strength <when defending> <for every [15] [Permafrost Spread]> <hidden from users>",
 					
-					"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <hidden from users>",
+					"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <when below [21] HP> <upon losing at least [1] HP in a single attack> <hidden from users>",
 					"[This Unit] heals [30] HP <upon gaining the [Cryostasis] status>",
 					"[This Unit] gains the [Cryostasis Cooldown] status for [14] turn(s) <upon gaining the [Cryostasis] status> <hidden from users>",
 					
