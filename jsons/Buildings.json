@@ -7,8 +7,8 @@
         "replaces": "Palace",
 		"percentStatBonus": {"science": -25, "food": -25},
 		"uniques": ["Comment [As Permafrost spreads, the Obelisk draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
-                    "[+1 Gold, +1 Production] <for every [5] [Winter's Grasp]>", "[+1 Faith, +1 Food] <for every [7] [Winter's Grasp]>", 
-                    "[+1 Science, +1 Culture] <for every [9] [Winter's Grasp]>", "[+1 Happiness] <for every [11] [Winter's Grasp]>",
+                    "[+1 Gold, +1 Production] <for every [5] [Permafrost Spread]>", "[+1 Faith, +1 Food] <for every [7] [Permafrost Spread]>", 
+                    "[+1 Science, +1 Culture] <for every [9] [Permafrost Spread]>", "[+1 Happiness] <for every [11] [Permafrost Spread]>",
 					"Never destroyed when the city is captured", "Indicates the capital city", ""
 					],
 		"civilopediaText": [
@@ -23,8 +23,8 @@
         "replaces": "Courthouse",
 		"percentStatBonus": {"science": -25, "food": -50},
 		"uniques": ["Comment [As Permafrost spreads, the Monolith draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
-                    "[+1 Gold, +1 Production] <for every [5] [Winter's Grasp]>", "[+1 Faith, +1 Food] <for every [7] [Winter's Grasp]>", 
-                    "[+1 Science, +1 Culture] <for every [9] [Winter's Grasp]>", "[+1 Happiness] <for every [11] [Winter's Grasp]>",
+                    "[+1 Gold, +1 Production] <for every [5] [Permafrost Spread]>", "[+1 Faith, +1 Food] <for every [7] [Permafrost Spread]>", 
+                    "[+1 Science, +1 Culture] <for every [9] [Permafrost Spread]>", "[+1 Happiness] <for every [11] [Permafrost Spread]>",
 					"Never destroyed when the city is captured", "Only available <in [non-Capital] cities> <if [Obelisk of Permafrost] is constructed>"
 					],
 		"requiredTech": "Philosophy",
