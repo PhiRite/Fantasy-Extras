@@ -13,8 +13,8 @@
 					"Comment [Can Call the [Eternal Freeze] Buffing ALL units for 10 turns]",
 					"Costs [500] [Everfrost Crystals]", "Cannot be purchased",
 					"Ignores terrain cost", "Limited to [1] per Civilization <for every [1] [Cities]>",
-					"[+1]% Strength <when attacking> <for every [10] [Permafrost Spread]> <hidden from users>",
-					"[+1]% Strength <when defending> <for every [15] [Permafrost Spread]> <hidden from users>",
+					"[+1]% Strength <when attacking> <for every [10] [[Permafrost] Tiles]> <hidden from users>",
+					"[+1]% Strength <when defending> <for every [15] [[Permafrost] Tiles]> <hidden from users>",
 					
 					"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <when below [21] HP> <upon losing at least [1] HP in a single attack> <hidden from users>",
 					"[This Unit] heals [30] HP <upon gaining the [Cryostasis] status>",
