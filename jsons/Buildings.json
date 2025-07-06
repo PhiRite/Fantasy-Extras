@@ -9,8 +9,8 @@
 		"uniques": ["Comment [The Obelisk draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
                     "[+1 Gold, +1 Production] <for every [3] [[Permafrost] Tiles]>", "[+1 Faith, +1 Food] <for every [4] [[Permafrost] Tiles]>", 
                     "[+1 Science, +1 Culture] <for every [7] [[Permafrost] Tiles]>", "[+1 Happiness] <for every [9] [[Permafrost] Tiles]>",
-					"Never destroyed when the city is captured", "Indicates the capital city", 
-					"Consumes [-1] [Everfrost Crystals] <for every [1] [All [Permafrost] Tiles]>"
+					"Never destroyed when the city is captured", "Indicates the capital city", "Unsellable",
+					"Consumes [-1] [Everfrost Crystals] <for every [1] [[Permafrost] Tiles]>",
 					],
 		"civilopediaText": [
 			{"text": "An ancient spire that hums with frozen energy, the Obelisk of Permafrost empowers the Frostborne as their dominion of ice expands."},
@@ -27,7 +27,6 @@
                     "[+1 Gold, +1 Production] <for every [5] [[Permafrost] Tiles]>", "[+1 Faith, +1 Food] <for every [6] [[Permafrost] Tiles]>", 
                     "[+1 Science, +1 Culture] <for every [9] [[Permafrost] Tiles]>", "[+1 Happiness] <for every [11] [[Permafrost] Tiles]>",
 					"Never destroyed when the city is captured", "Only available <in [non-[Capital]] cities> <if [Obelisk of Permafrost] is constructed>",
-					"Consumes [-1] [Everfrost Crystals] <for every [1] [All [Permafrost] Tiles]>"
 					],
 		"requiredTech": "Philosophy",
 		"civilopediaText": [
