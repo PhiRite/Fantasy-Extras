@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Swarm",
+        "movementType": "Land",
+        "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>",
+                    "Can pass through impassable tiles", "May travel on Water tiles without embarking"]
+    },
+    {
+        "name": "Swarmling",
+        "movementType": "Land",
+        "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>",
+                    "Can pass through impassable tiles", "May travel on Water tiles without embarking"]
+    },
+]
