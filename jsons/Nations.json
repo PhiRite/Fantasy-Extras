@@ -25,7 +25,6 @@
 		"uniqueName": "Everwinter",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
 					"Comment [Special Units are limited to 1 for every city.]",
-					"Comment [Gains 1 [Everfrost Crystal] per turn for every turn.]",
 					"Comment [Capital city gains more stats per every turn. other cities can slowly gain the same buff overtime.]",
 					"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
 					"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
@@ -40,4 +39,45 @@
 			{"test":"Snow type tiles also count toward the stat bonus but they need to be in your borders to count"}
         ]
 	},
+	{
+		"name": "Coleopteran Swarm",
+		"leaderName": "Boreas",
+		"adjective": ["Propagator"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Tayzzyronth",
+		
+		"startIntroPart1": "Tayzzyronth, Seedmind of the Coleopteran Swarm. From spore to spire, your children multiply without end. The roots writhe beneath foreign soil.",
+		"startIntroPart2": "Will you consume all in your path? Will your hive eclipse the stars? Prove to them: what grows cannot be killed — it only spreads.",
+		
+		"declaringWar": "You will be repurposed.",
+		"attacked": "Hostility detected. Commencing propagation override.",
+		"defeated": "Roots… severed. But spores… remain...",
+		"introduction": "I am Tayzzyronth, voice of the Many. Your biomass will serve us well.",
+		
+		"neutralHello": "Stillness is inefficient. We prefer motion. And growth.",
+		"hateHello": "The Swarm blooms — and you are in the way.",
+		"tradeRequest": "Exchange strengthens nodes. Offer what you can. We will grow it.",
+		
+		"outerColor": [80, 200, 120],
+		"innerColor": [40, 100, 80],
+
+		"uniqueName": "Imperator Insectorum",
+		"uniques": ["Comment [Cannot control or build Cities or build any units.]",
+					"Comment [Cannot do research or gain policies on its own.]",
+					"Comment [Starts with a [Swarm Mother] which spawns swarmlings.]",
+					"Comment [BIG TEST, LOOKING TO SEE IF I CAN MAKE IT SO ALL OF THE SPECIAL UNITS CANNOT CAPTURE CITIES IE. THEY DESTROY CITIES INSTANTLY.]",
+					],
+		//added this since gpt gave them lol, i was asking for lore stuff and it spat that out aswell
+		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
+					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
+					"Mycocore", "Thrummire", "Sporeshade", "Antenna Ridge", "Cradle of Tayzzyronth", "The Endless Womb"],
+		"civilopediaText": [
+			{"text":"The Coleopteran Swarm is not a nation — it is a directive. Propagation is their law, From desert cracks to city ruins, they grow. Every death feeds the Swarm. Every enemy is an opportunity for more."},
+			{"text":"The Swarm must be aggresive yet cautious, the death of the [Swarm Mother] means the death of the swarm"},
+			{"text":"You want quickly find a way to evolve your swarm queen to quickly swarm your enemies"},
+			{"test":"Each existing swarmling will slowly drain your [Biomass], ensure that you have enough to feed your army or your swarm will slowly die and gain debuffs"}
+        ]
+	},
+	
 ]
