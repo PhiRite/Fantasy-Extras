@@ -1,29 +1,29 @@
 [
-    {
+	//Frostborne
+	{
 		"name": "Blessing of Boreas",
 		"uniques": ["Ignores terrain cost", "Comment [Unit gains 5% attack strength, 10% in Permafrost. This effect is doubled for defense]",
-                    "[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>",
-                    "[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", "[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
-                    "Turn this tile into a [Permafrost] tile <for all movement> <costs [50] [Everfrost Crystals]>"]
+			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>",
+			"[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", "[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
+			"Turn this tile into a [Permafrost] tile <for all movement> <costs [50] [Everfrost Crystals]>"]
 	},
 	{
 		"name": "Eternal Freeze",
 		"uniques": ["Comment [Unleash the power of the Everwinter upon your enemies.]",
-					"Comment [All units gain the [Blessing of Boreas] for 10 turns, grating them buffs]",
-                    "Comment [Enhances the [Permafrost], making it so enemy units now get weakened and take damage while inside]",
-					"Comment [This unit puts enemy units into [Cryostasis] when it attacks]",
-					"[Target Unit] gains the [Cryostasis] status for [2] turn(s) <upon damaging a [all] unit> <hidden from users>"
-					]
+			"Comment [All units gain the [Blessing of Boreas] for 10 turns, grating them buffs]",
+			"Comment [Enhances the [Permafrost], making it so enemy units now get weakened and take damage while inside]",
+			"Comment [This unit puts enemy units into [Cryostasis] when it attacks]",
+			"[Target Unit] gains the [Cryostasis] status for [2] turn(s) <upon damaging a [all] unit> <hidden from users>"]
 	},
 	{
 		"name": "Cryostasis",
 		"uniques": ["Comment [This is unit is frozen, but is protected by a layer of ice.]",
-					"[This Unit] loses [999] movement <upon turn start> <hidden from users>",
-					"Cannot attack <hidden from users>", "Cannot move", 
-					"[+30]% Strength <hidden from users>", 
-					"No defensive terrain bonus <hidden from users>", 
-					"Can only heal by pillaging <hidden from users>", 
-					"No Sight <hidden from users>"]
+			"[This Unit] loses [999] movement <upon turn start> <hidden from users>",
+			"Cannot attack <hidden from users>", "Cannot move", 
+			"[+30]% Strength <hidden from users>", 
+			"No defensive terrain bonus <hidden from users>", 
+			"Can only heal by pillaging <hidden from users>", 
+			"No Sight <hidden from users>"]
 	},
 	{
 		"name": "Eternal Freeze Cooldown",
@@ -32,5 +32,135 @@
 	{
 		"name": "Cryostasis Cooldown",
 		"uniques": ["Comment [Cryostasis is in cooldown]"]
+	},
+	//Propagation
+	{
+		"name": "Spawning",
+		"uniques": ["Comment [Spawns Swarmling]"]
+	},
+	{
+		"name": "Spawn Cooldown",
+		"uniques": ["Comment [Spawns Swarmling]"]
+	},
+	{
+		"name": "Propagation I",
+		"unitTypes": ["Swarm"],
+		"column": 0,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] every 10 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [11] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation II]> <for units without [Propagation III]> <for units without [Propagation IV]> <for units without [Propagation V]> <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation II",
+		"prerequisites": ["Propagation I"],
+		"unitTypes": ["Swarm"],
+		"column": 1,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] every 7 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [8] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation III]> <for units without [Propagation IV]> <for units without [Propagation V]> <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation III",
+		"prerequisites": ["Propagation II"],
+		"unitTypes": ["Swarm"],
+		"column": 2,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] and 1 [Corrosive Swarmling] every 7 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[1] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [8] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation IV]> <for units without [Propagation V]> <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation IV",
+		"prerequisites": ["Propagation III"],
+		"unitTypes": ["Swarm"],
+		"column": 3,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] and 2 [Corrosive Swarmling] every 7 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [8] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation V]> <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation V",
+		"prerequisites": ["Propagation IV"],
+		"unitTypes": ["Swarm"],
+		"column": 4,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] and 2 [Corrosive Swarmling] every 5 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [6] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation VI",
+		"prerequisites": ["Propagation V"],
+		"unitTypes": ["Swarm"],
+		"column": 5,
+		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling], 2 [Corrosive Swarmling] and 1 [Volatile Swarmling] every 5 turns]",
+			"[3] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[1] free [Volatile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [6] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation VII",
+		"prerequisites": ["Propagation VI"],
+		"unitTypes": ["Swarm"],
+		"column": 6,
+		"uniques": ["Comment [Spawns 4 [Juvenile Swarmling], 2 [Corrosive Swarmling] and 1 [Volatile Swarmling] every 5 turns]",
+			"[4] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[1] free [Volatile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [6] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation VIII",
+		"prerequisites": ["Propagation VII"],
+		"unitTypes": ["Swarm"],
+		"column": 7,
+		"uniques": ["Comment [Spawns 4 [Juvenile Swarmling], 3 [Corrosive Swarmling] and 1 [Volatile Swarmling] every 5 turns]",
+			"[4] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[3] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[1] free [Volatile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [6] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation IX",
+		"prerequisites": ["Propagation VIII"],
+		"unitTypes": ["Swarm"],
+		"column": 8,
+		"uniques": ["Comment [Spawns 4 [Juvenile Swarmling], 3 [Corrosive Swarmling] and 2 [Volatile Swarmling] every 5 turns]",
+			"[4] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[3] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Volatile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [6] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
+			"Only available <for units without [Propagation X]> <hidden from users>"]
+	},
+	{
+		"name": "Propagation X",
+		"prerequisites": ["Propagation IX"],
+		"unitTypes": ["Swarm"],
+		"column": 9,
+		"uniques": ["Comment [Spawns 4 [Juvenile Swarmling], 3 [Corrosive Swarmling] and 2 [Volatile Swarmling] every 3 turns]",
+			"[4] free [Juvenile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[3] free [Corrosive Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[2] free [Volatile Swarmling] appears <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [4] turn(s) <upon gaining the [Spawning] status> <hidden from users>",]
 	},
 ]
