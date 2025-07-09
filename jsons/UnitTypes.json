@@ -2,13 +2,13 @@
     {
         "name": "Swarm",
         "movementType": "Land",
-        "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>",
+        "uniques": ["Ignores terrain cost", "Unable to capture cities",
                     "Can pass through impassable tiles", "May travel on Water tiles without embarking"]
     },
     {
         "name": "Swarmling",
         "movementType": "Land",
-        "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>",
+        "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>", "Unable to capture cities",
                     "Can pass through impassable tiles", "May travel on Water tiles without embarking"]
     },
 ]
