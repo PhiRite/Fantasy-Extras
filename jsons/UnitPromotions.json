@@ -163,4 +163,51 @@
 			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
 			"[This Unit] gains the [Spawn Cooldown] status for [4] turn(s) <upon gaining the [Spawning] status> <hidden from users>",]
 	},
+	{
+		"name": "Speed Mutation",
+		"unitTypes": ["Swarmling"],
+		"row": 0,
+		"uniques": ["[+1] Movement", "Withdraws before melee combat <with [25]% chance>", "Comment [Costs 250 [Biomass]]",
+			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+	},
+	{
+		"name": "Attack Mutation",
+		"unitTypes": ["Swarmling"],
+		"row": 1,
+		"uniques": ["[1] additional attacks per turn", "Comment [Costs 500 [Biomass]]",
+			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"]
+	},
+	{
+		"name": "Sight Mutation",
+		"unitTypes": ["Swarmling"],
+		"row": 2,
+		"uniques": ["[+1] Sight", "[+1] Range <for [Corrosive Swarmling] units>", "Comment [Costs 250 [Biomass]]",
+			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+	},
+	{
+		"name": "Carapace Mutation",
+		"unitTypes": ["Swarmling"],
+		"row": 3,
+		"uniques": ["[+25]% Strength <when defending>", "Comment [Costs 500 [Biomass]]",
+			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"]
+	},
+	{
+		"name": "Consumption Mutation",
+		"unitTypes": ["Swarmling"],
+		"row": 4,
+		"uniques": ["Heals [25] damage if it kills a unit", "Earn [5]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
+			"Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"]
+	},
+	{
+		"name": "Evolved Swarmling",
+		"unitTypes": ["Swarmling"],
+		"row": 5,
+		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 1500 [Biomass]]",
+			"Comment [Juvenile Swarmling: Gains the ability to clone itself every 15 turns]",
+			"Comment [Corrosive Swarmling: Gains 1 more attack and range]",
+			"Comment [Volatile Swarmling: Gains 1 more blast radius]",
+			"Comment [True Swarmling: Gains the ability to spawn any of the 3 other swarmlings with 10% chance everytime it is hit]",
+			"Instantly consumes [1500] [Biomass] <hidden from users>", "Only available <when above [1500] [Biomass]> <hidden from users>"
+			]
+	},
 ]
