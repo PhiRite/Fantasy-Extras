@@ -80,7 +80,7 @@
 		"cost": 90,
 		"uniqueTo": "Coleopteran Swarm",
 	    	"uniques": ["Comment [Can Evolve into [True Swarmling]]", "Self-destructs when attacking",
-			"Blast radius [1] <for units without [Evolved Swarm]>",
+			"Blast radius [1] <for units without [Evolved Swarmling]>",
 			"Comment [Special promotion allows this unit to gain 1 more explosion range for lesser damage]", 
 			"Can transform to [True Swarmling] <costs [1000] [Biomass]>",
 			"Comment [Increases strength for every 50 Biomass]",
