@@ -19,8 +19,8 @@
 		"hateHello": "You will know true stillness — when your world freezes over.",
 		"tradeRequest": "A shard of ice can reflect many truths. Let us see what benefit lies between us.",
 				
-		"outerColor": [91, 135, 215],
-		"innerColor": [223, 241, 255],
+		"outerColor": [254, 143, 25],
+		"innerColor": [39, 40, 47],
 
 		"uniqueName": "Everwinter",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
