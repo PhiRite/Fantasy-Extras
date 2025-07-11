@@ -18,10 +18,10 @@
 		"neutralHello": "The chill does not bite... unless provoked.",
 		"hateHello": "You will know true stillness — when your world freezes over.",
 		"tradeRequest": "A shard of ice can reflect many truths. Let us see what benefit lies between us.",
-				
-		"outerColor": [254, 143, 25],
-		"innerColor": [39, 40, 47],
 
+	    	"outerColor": [91, 135, 215],
+		"innerColor": [223, 241, 255],
+	    
 		"uniqueName": "Everwinter",
 		"uniques": ["Comment [Special Units can freeze over any tile, allowing all land units to go over water and reducing movement and sight of enemy units.]",
 			"Comment [Special Units are limited to 1 for every city.]",
@@ -59,8 +59,8 @@
 		"hateHello": "The Swarm blooms — and you are in the way.",
 		"tradeRequest": "Exchange strengthens nodes. Offer what you can. We will grow it.",
 		
-		"outerColor": [80, 200, 120],
-		"innerColor": [40, 100, 80],
+		"outerColor": [254, 143, 25],
+		"innerColor": [39, 40, 47],
 
 		"uniqueName": "Imperator Insectorum",
 		"uniques": ["Comment [Cannot control or build Cities or build any units.]",
