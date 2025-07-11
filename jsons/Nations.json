@@ -79,7 +79,6 @@
 			"Nullifies [Faith] [in all cities] <hidden from users>",
 			"Cannot build [Settler] units", "May not annex cities",
 					],
-		//added this since gpt gave them lol, i was asking for lore stuff and it spat that out aswell
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
 					"Mycocore", "Thrummire", "Sporeshade", "Antenna Ridge", "Cradle of Tayzzyronth", "The Endless Womb"],
