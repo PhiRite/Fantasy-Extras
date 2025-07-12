@@ -39,7 +39,7 @@
 			"Comment [Spawn time starts at every 10 turns, some evolutions will reduce the cooldown]",
 			"Comment [Increases damage for every existing Swarmling unit]",
 			"Earn [45]% of the damage done to [All] units as [Biomass]",
-			"[+125]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization"],
+			"[+15]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization"],
 		"attackSound": "metalhit"
 	},
 	{
