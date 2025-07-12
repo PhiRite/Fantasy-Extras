@@ -202,8 +202,8 @@
 		"name": "Efficient Digestion",
 		"unitTypes": ["Swarmling"],
 		"row": 5,
-		"uniques": ["Comment [Reduces biomass consumption by 1, minimum is still 1]", "Earn [5]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
-			"Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"]
+		"uniques": ["Comment [Reduces biomass consumption by 1, minimum is still 1]", "Earn [50]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
+			"Consumes [-1] [Biomass]", "Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Evolved Swarmling",
