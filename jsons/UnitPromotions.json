@@ -192,10 +192,10 @@
 			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"]
 	},
 	{
-		"name": "Consumption Mutation",
+		"name": "Efficient Digestion",
 		"unitTypes": ["Swarmling"],
 		"row": 5,
-		"uniques": ["Heals [25] damage if it kills a unit", "Earn [5]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
+		"uniques": ["Comment [Reduces biomass consumption by 1, minimum is still 1]", "Earn [5]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
 			"Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"]
 	},
 	{
@@ -205,7 +205,7 @@
 		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 1500 [Biomass]]",
 			"Comment [Juvenile Swarmling: Gains the ability to clone itself every 15 turns]",
 			"Comment [Corrosive Swarmling: Gains 1 more attack and range]",
-			"Comment [Volatile Swarmling: Gains 1 more blast radius]",
+			"Comment [Volatile Swarmling: Gains 1 more blast radius but deals less damage]",
 			"Comment [True Swarmling: Gains the ability to spawn any of the 3 other swarmlings with 10% chance everytime it is hit]",
 			"Instantly consumes [1500] [Biomass] <hidden from users>", "Only available <when above [1500] [Biomass]> <hidden from users>"
 			]
