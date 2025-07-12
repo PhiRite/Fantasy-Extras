@@ -53,7 +53,6 @@
 			"Can transform to [Corrosive Swarmling] <costs [250] [Biomass]>",
 			"Can transform to [Volatile Swarmling] <costs [500] [Biomass]>",
 			"Can transform to [True Swarmling] <costs [1000] [Biomass]>",
-			"Nuclear weapon of Strength [3]",
 			"Consumes [1] [Biomass]", "Comment [Gains 5/3 xp when adjacent to [Swarm Mother] or [True Swarmling].]",
 			"[This Unit] gains [5] XP <upon turn end> <when adjacent to a [Swarm Mother] unit> <hidden from users>",
 			"[This Unit] gains [3] XP <upon turn end> <when adjacent to a [True Swarmling] unit> <hidden from users>",
