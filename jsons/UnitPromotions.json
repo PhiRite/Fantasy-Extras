@@ -48,7 +48,7 @@
 		"column": 0,
 		"uniques": ["Comment [Spawns 3 [Juvenile Swarmling] every 10 turns]",
 			"[3] free [Juvenile Swarmling] units appear <upon gaining the [Spawning] status> <hidden from users>",
-			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <upon turn start> <hidden from users>",
 			"[This Unit] gains the [Spawn Cooldown] status for [11] turn(s) <upon gaining the [Spawning] status> <hidden from users>",
 			"Only available <for units without [Propagation II]> <for units without [Propagation III]> <for units without [Propagation IV]> <for units without [Propagation V]> <for units without [Propagation VI]> <for units without [Propagation VII]> <for units without [Propagation VIII]> <for units without [Propagation IX]> <for units without [Propagation X]> <hidden from users>"]
 	},
