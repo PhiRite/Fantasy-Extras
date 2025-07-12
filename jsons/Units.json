@@ -38,6 +38,7 @@
 	    	"uniques": ["Comment [Spawns Swarmlings of different types based on current evolution level]",
 			"Comment [Spawn time starts at every 10 turns, some evolutions will reduce the cooldown]",
 			"Comment [Increases damage for every existing Swarmling unit]",
+			"Earn [10]% of the damage done to [All] units as [Biomass]",
 			"[+15]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization"],
 		"attackSound": "metalhit"
 	},
@@ -54,7 +55,7 @@
 			"Can transform to [Volatile Swarmling] <costs [500] [Biomass]>",
 			"Can transform to [True Swarmling] <costs [1000] [Biomass]>",
 			"Comment [Increases strength for every 50 Biomass]",
-
+			"Earn [5]% of the damage done to [All] units as [Biomass]",
 			"[1] free [Juvenile Swarmling] units appear <upon gaining the [Spawning] status> <for [Evolved Swarmling] units>",
 			"[This Unit] gains the [Spawning] status for [1] turn(s) <for [Evolved Swarmling] units> <for units without [Spawn Cooldown]> <costs [100] [Biomass]>",
 			"[This Unit] gains the [Spawn Cooldown] status for [16] turn(s) <for [Evolved Swarmling] units> <upon gaining the [Spawning] status> <hidden from users>",
@@ -73,6 +74,7 @@
 	    	"uniques": ["Comment [Can Evolve into [True Swarmling]]",
 			"Can transform to [True Swarmling] <costs [1000] [Biomass]>",
 			"Comment [Increases strength for every 50 Biomass]",
+			"Earn [5]% of the damage done to [All] units as [Biomass]",
 			"[1] additional attacks per turn <for [Evolved Swarmling] units>",
 			"[+1] Range <for [Evolved Swarmling] units>",
 			],
@@ -88,6 +90,8 @@
 	    	"uniques": ["Comment [Can Evolve into [True Swarmling]]", "Self-destructs when attacking",
 			"Blast radius [1] <for units without [Evolved Swarmling]>",
 			"Blast radius [2] <for [Evolved Swarmling] units>",
+			"[-30]% Strength <for [Evolved Swarmling] units>",
+			"Earn [5]% of the damage done to [All] units as [Biomass]",
 			"Can transform to [True Swarmling] <costs [1000] [Biomass]>",
 			"Comment [Increases strength for every 50 Biomass]",
 			],
@@ -103,7 +107,7 @@
 	    	"uniques": ["Comment [A Swarmling with some of the abilities of all other swarmlings but consumes 10 biomass]",
 			"Comment [Increases strength for every 50 Biomass]",
 			"[1] additional attacks per turn", "Blast radius [1]",
-
+			"Earn [5]% of the damage done to [All] units as [Biomass]",
 			"[1] free [Juvenile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [10]% chance> <for [Evolved Swarmling] units>",
 			"[1] free [Corrosive Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [10]% chance> <for [Evolved Swarmling] units>",
 			"[1] free [Volatile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [10]% chance> <for [Evolved Swarmling] units>",
