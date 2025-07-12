@@ -9,7 +9,7 @@
         {
                 "name": "Swarmling",
                 "movementType": "Land",
-                "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [50] [Biomass]>", "[This Unit] takes [15] damage <upon turn end> <when below [0] [Biomass]>", "Unable to capture cities",
+                "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [10] [Biomass]>", "[This Unit] takes [15] damage <upon turn end> <when below [0] [Biomass]>", "Unable to capture cities",
                         "Uncapturable", "Can move after attacking", "Ignores terrain cost", "Nuclear weapon of Strength [3] <vs [City]>",
                         "May travel on Water tiles without embarking"]
         },
