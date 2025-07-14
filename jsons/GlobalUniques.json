@@ -6,7 +6,7 @@
                         "[This Unit] gains the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Frostborne] Civilizations> <when number of [[Eternal Freeze] Units] is more than [0]>",
                         "[This Unit] loses the [Blessing of Boreas] promotion <upon entering a [All] tile> <for [Land] units> <for [Frostborne] Civilizations> <when number of [[Eternal Freeze] Units] is less than [1]>",
                         //Coleopteran Swarm
-                        "[This Unit] gains the [Volatile Detonation] status for [1] turn(s) <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
+                        "[This Unit] gains the [Volatile Explosive] status for [1] turn(s) <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
                         "[This Unit] takes [15] damage <when adjacent to a [Evolved Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>",
                         "[This Unit] takes [10] damage <when adjacent to a [Volatile Explosive] unit> <for [{non-[Coleopteran Swarm]} {non-[Evolved Volatile Explosive]}] units>"
 
