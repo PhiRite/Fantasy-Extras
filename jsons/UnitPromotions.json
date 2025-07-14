@@ -45,7 +45,7 @@
 	{
 		"name": "City Devourer",
 		"uniques": ["Comment [Allows Swarm Mother to completely devour a city]",
-			"Comment [Does a nuclear attack, destroying everything in a 3 tile radius]",
+			"Comment [Does a nuclear attack]", "Blast radius [0]",
 			"Nuclear weapon of Strength [3]", "Can only attack [City] units"]
 	},
 	{
