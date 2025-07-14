@@ -95,7 +95,7 @@
 		"cost": 90,
 		"uniqueTo": "Coleopteran Swarm",
 	    	"uniques": ["Comment [Can Evolve into [True Swarmling]]", "Self-destructs when attacking",
-			"[Target Unit] gains the [Volatile Detonation] status for [1] turn(s) <for [non-Evolved Swarming] units>",
+			"[Target Unit] gains the [Volatile Detonation] status for [1] turn(s) <for [non-[Evolved Swarming]] units>",
 			"[Target Unit] gains the [Evolved Volatile Detonation] status for [1] turn(s) <for [Evolved Swarming] units>",
 			"Consumes [5] [Biomass]", "Comment [Gains 5/3 xp when adjacent to [Swarm Mother] or [True Swarmling].]",
 			"[This Unit] gains [5] XP <upon turn end> <when adjacent to a [Swarm Mother] unit> <hidden from users>",
