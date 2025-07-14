@@ -49,11 +49,11 @@
 			"Nuclear weapon of Strength [2]", "Can only attack [City] units"]
 	},
 	{
-		"name": "Volatile Detonation",
+		"name": "Volatile Explosive",
 		"uniques": ["Comment [Attacked by a Volatile Swarmling, will deal damage to adjacent units]"]
 	},
 	{
-		"name": "Evolved Volatile Detonation",
+		"name": "Evolved Volatile Explosive",
 		"uniques": ["Comment [Attacked by an Evolved Volatile Swarmling, will deal damage to adjacent units]"]
 	},
 	{
