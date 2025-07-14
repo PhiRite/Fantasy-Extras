@@ -45,8 +45,8 @@
 	{
 		"name": "City Devourer",
 		"uniques": ["Comment [Allows Swarm Mother to completely devour a city]",
-			"Comment [Does a nuclear attack]", "[+9999]% Strength <when defending>",
-			"Nuclear weapon of Strength [3]", "Can only attack [City] units"]
+			"Comment [Does a nuclear attack]", "Blast Radius [0]",
+			"Nuclear weapon of Strength [1]", "Can only attack [City] units"]
 	},
 	{
 		"name": "Propagation I",
