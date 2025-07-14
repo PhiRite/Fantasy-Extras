@@ -39,7 +39,7 @@
 			"Comment [Increases damage for every existing Swarmling unit]", "Consumes [-5] [Biomass]",
 			"Comment [The only unit able to destroy cities, Also destroys everything in a 3 tile radius]",
 			"[This Unit] gains the [City Devourer] status for [1] turn(s) <for [0] movement>",
-			"Earn [75]% of the damage done to [All] units as [Biomass]", "[This Unit] gains the [Propagation I] promotion <once>",
+			"Earn [75]% of the damage done to [All] units as [Biomass]", "[This Unit] gains the [Propagation I] promotion <after turn number [0]> <hidden from users>",
 			"[+15]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization"],
 		"attackSound": "metalhit"
 	},
