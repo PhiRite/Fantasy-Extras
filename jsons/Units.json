@@ -35,7 +35,7 @@
 		"replaces": "Settler",
 		"uniqueTo": "Coleopteran Swarm",
 	    	"uniques": ["Comment [Spawns Swarmlings of different types based on current evolution level]",
-			"Comment [Spawn time starts at every 10 turns, some evolutions will reduce the cooldown]",
+			"Comment [Spawn time starts at every 10 turns, some evolutions will reduce the cooldown. Will not spawn units when you have no [Biomass]]",
 			"Comment [Increases damage for every existing Swarmling unit]", "Consumes [-5] [Biomass]",
 			"Comment [The only unit able to destroy cities]",
 			"[This Unit] gains the [City Devourer] status for [1] turn(s) <for [0] movement> <for units without [City Devourer]>",
