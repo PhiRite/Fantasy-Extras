@@ -43,6 +43,12 @@
 		"uniques": ["Comment [Spawns Swarmling]"]
 	},
 	{
+		"name": "City Devourer",
+		"uniques": ["Comment [Allows Swarm Mother to completely devour a city]",
+			"Comment [Does a nuclear attack, destroying everything in a 3 tile radius]",
+			"Nuclear weapon of Strength [3]", "Can only attack [City] units"]
+	},
+	{
 		"name": "Propagation I",
 		"unitTypes": ["Swarm"],
 		"column": 0,
