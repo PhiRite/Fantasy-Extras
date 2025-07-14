@@ -6,6 +6,6 @@
                 "Allow raze holy city"
         ],
         "constants":{
-                "maxXPfromBarbarians": 10000
+                "maxXPfromBarbarians": 999999
         }
 }
