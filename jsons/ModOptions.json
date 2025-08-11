@@ -2,8 +2,6 @@
         "modUrl": "https://github.com/PhiRite/Fantasy-Extras",
         "author": "PhiRite",
         "uniques":[
-                "Allow raze capital",
-                "Allow raze holy city"
         ],
         "constants":{
                 "maxXPfromBarbarians": 999999
