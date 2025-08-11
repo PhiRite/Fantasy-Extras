@@ -20,7 +20,7 @@
 		"name": "Frozen Monolith",
 		"uniqueTo": "Frostborne",
 		"maintenance": 0,
-        "cost": 150,
+        "cost": 75,
         "replaces": "Courthouse",
 		"percentStatBonus": {"science": -50, "food": -50},
 		"uniques": ["Comment [The Monolith draws power from the frost, granting +1 of each yield per threshold reached — each yield awakens at a different rate.]",
