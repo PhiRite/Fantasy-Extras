@@ -59,7 +59,6 @@
 			"Piety": 40,
 			"Autocracy": 20,
 		},
-		"uniques": ["Will not build [Buildings]"],
 		"civilopediaText": [
 			{"text": "."}
 		]
@@ -92,7 +91,6 @@
 			"Piety": 40,
 			"Autocracy": 20,
 		},
-		"uniques": ["Will not build [Buildings]"],
 		"civilopediaText": [
 			{"text": "."}
 		]
