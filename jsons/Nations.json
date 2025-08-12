@@ -67,7 +67,6 @@
 		"uniques": ["Comment [Cannot control or build Cities or build any units.]",
 			"Comment [Cannot do research or gain policies on its own.]",
 			"Comment [Starts with a [Swarm Mother] which spawns swarmlings.]",
-			"Comment [BIG TEST, LOOKING TO SEE IF I CAN MAKE IT SO ALL OF THE SPECIAL UNITS CANNOT CAPTURE CITIES IE. THEY DESTROY CITIES INSTANTLY.]",
 			"Nullifies [Food] [in all cities] <hidden from users>",
 			"Nullifies [Production] [in all cities] <hidden from users>",
 			"[-100]% maintenance costs <hidden from users>",
@@ -120,7 +119,13 @@
 					"[-100]% maintenance costs <hidden from users>",
 					"[-100]% maintenance on road & railroads <hidden from users>",
 					"[-100]% maintenance cost for [All] buildings [in your cities] <hidden from users>",
-					"Cannot build [non-[Spore Building]] units"
+					"Cannot build [non-[Spore Building]] units",
+					"Nullifies [Food] [in all cities] <hidden from users>",
+					"Nullifies [Happiness] [in all cities] <hidden from users>",
+					"Nullifies [Culture] [in all cities] <hidden from users>",
+					"Nullifies [Science] [in all cities] <hidden from users>",
+					"Nullifies [Gold] [in all cities] <hidden from users>",
+					"Nullifies [Faith] [in all cities] <hidden from users>",
 					],
 		"cities": ["Fungal Growth"],
 		"civilopediaText": [
