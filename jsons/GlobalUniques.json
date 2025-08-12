@@ -2,8 +2,8 @@
         "name": "Global uniques",
         "uniques": [    //Undergrove
                         "[+100]% XP required for promotions <for [Undergrove] units>",
-                        "[-100000]% Production when constructing [All] buildings [Undergrove]",
-                        "[-100000]% Production when constructing [All] buildings [Coleopteran Swarm]",
+                        "[+100000]% Production when constructing [All] buildings [Undergrove]",
+                        "[+100000]% Production when constructing [All] buildings [Coleopteran Swarm]",
         ],
         "unitUniques": [
                         //Frostborne
