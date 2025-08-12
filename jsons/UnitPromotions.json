@@ -196,48 +196,203 @@
 		"name": "Speed Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 1,
-		"uniques": ["[+1] Movement", "Withdraws before melee combat <with [25]% chance>", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+		"uniques": ["[+1] Movement", "Withdraws before melee combat <with [25]% chance>", "Comment [Costs 150 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [150] [Biomass] <hidden from users>", "Only available <when above [150] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Attack Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 2,
-		"uniques": ["[1] additional attacks per turn", "Comment [Costs 500 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"]
+		"uniques": ["[1] additional attacks per turn", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Sight Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 3,
-		"uniques": ["[+1] Sight", "[+1] Range <for [Corrosive Swarmling] units>", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+		"uniques": ["[+1] Sight", "[+1] Range <for [Corrosive Swarmling] units>", "Comment [Costs 150 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [150] [Biomass] <hidden from users>", "Only available <when above [150] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Carapace Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 4,
-		"uniques": ["[+25]% Strength <when defending>", "Comment [Costs 500 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"]
+		"uniques": ["[+25]% Strength <when defending>", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Efficient Digestion",
 		"unitTypes": ["Swarmling"],
 		"row": 5,
-		"uniques": ["Comment [Reduces biomass consumption by 1, minimum is still 1]", "Earn [50]% of the damage done to [All] units as [Biomass]", "Comment [Costs 750 [Biomass]]",
+		"uniques": ["Comment [Reduces biomass consumption by 1]", "Earn [50]% of the damage done to [All] units as [Biomass]", "Comment [Costs 250 [Biomass]]",
 			"Swarm Upgrade",
-			"Consumes [-1] [Biomass]", "Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"]
+			"Consumes [-1] [Biomass]", "Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Evolved Swarmling",
 		"unitTypes": ["Swarmling"],
 		"row": 6,
-		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 1500 [Biomass]]",
+		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 750 [Biomass]]",
 			"Comment [Juvenile Swarmling: Gains the ability to clone itself every 15 turns]",
 			"Comment [Corrosive Swarmling: Gains 1 more attack and range]", "Swarm Upgrade",
 			"Comment [Volatile Swarmling: Gains 1 more blast radius but deals less damage]",
 			"Comment [True Swarmling: Gains the ability to spawn any of the 3 other swarmlings with 10% chance everytime it is hit]",
-			"Instantly consumes [1500] [Biomass] <hidden from users>", "Only available <when above [1500] [Biomass]> <hidden from users>"
+			"Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"
 			]
 	},
+	//Undergrove
+	{
+        "name": "Fungal Growth I",
+        "uniques": ["Gain [10] [Science] <for all movement> <costs [200] [Fungus]>",
+					"Gain [10] [Culture] <for all movement> <costs [200] [Fungus]>",
+            
+                    "[1] free [Scout] units appear <for [1] movement> <costs [60] [Fungus]>",
+					"[1] free [Warrior] units appear <for [1] movement> <costs [100] [Fungus]>",
+				    "[1] free [Trireme] units appear <for [1] movement> <costs [100] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth II",
+        "uniques": ["Gain [20] [Science] <for all movement> <costs [300] [Fungus]>",
+					"Gain [20] [Culture] <for all movement> <costs [300] [Fungus]>",
+
+					"[1] free [Spearman] units appear <for [1] movement> <costs [150] [Fungus]>",
+                    "[1] free [Catapult] units appear <for [1] movement> <costs [150] [Fungus]>",
+				    "[1] free [Trireme] units appear <for [1] movement> <costs [100] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth III",
+        "uniques": ["Gain [80] [Science] <for all movement> <costs [400] [Fungus]>",
+					"Gain [80] [Culture] <for all movement> <costs [400] [Fungus]>",
+
+					"[1] free [Knight] units appear <for [1] movement> <costs [250] [Fungus]>",
+                    "[1] free [Trebuchet] units appear <for [1] movement> <costs [200] [Fungus]>",
+					"[1] free [Galleass] units appear <for [1] movement> <costs [200] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth IV",
+        "uniques": ["Gain [300] [Science] <for all movement> <costs [450] [Fungus]>",
+					"Gain [300] [Culture] <for all movement> <costs [450] [Fungus]>",
+
+					"[1] free [Musketeer] units appear <for [1] movement> <costs [300] [Fungus]>",
+                    "[1] free [Cannon] units appear <for [1] movement> <costs [350] [Fungus]>",
+					"[1] free [Caravel] units appear <for [1] movement> <costs [300] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth V",
+        "uniques": ["Gain [800] [Science] <for all movement> <costs [500] [Fungus]>",
+					"Gain [800] [Culture] <for all movement> <costs [500] [Fungus]>",
+
+					"[1] free [Rifleman] units appear <for [1] movement> <costs [400] [Fungus]> ",
+                    "[1] free [Artillery] units appear <for [1] movement> <costs [450] [Fungus]>",
+					"[1] free [Ironclad] units appear <for [1] movement> <costs [400] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth VI",
+        "uniques": ["Gain [2000] [Science] <for all movement> <costs [600] [Fungus]>",
+					"Gain [2000] [Culture] <for all movement> <costs [600] [Fungus]>",
+
+					"[1] free [Infantry] units appear <for [1] movement> <costs [500] [Fungus]>",
+                    "[1] free [Artillery] units appear <for [1] movement> <costs [550] [Fungus]>",
+					"[1] free [Submarine] units appear <for [1] movement> <costs [500] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth VII",
+        "uniques": ["Gain [3500] [Science] <for all movement> <costs [700] [Fungus]>",
+					"Gain [3500] [Culture] <for all movement> <costs [700] [Fungus]>",
+
+					"[1] free [Marine] units appear <for [1] movement> <costs [600] [Fungus]>",
+                    "[1] free [Rocket Artillery] units appear <for [1] movement> <costs [650] [Fungus]>",
+					"[1] free [Nuclear Submarine] units appear <for [1] movement> <costs [600] [Fungus]>"]
+    },
+    {
+        "name": "Fungal Growth VIII",
+        "uniques": ["Gain [6000] [Science] <for all movement> <costs [800] [Fungus]>",
+					"Gain [6000] [Culture] <for all movement> <costs [800] [Fungus]>",
+
+					"[1] free [Modern Armor] units appear <for [1] movement> <costs [600] [Fungus]>",
+                    "[1] free [Giant Death Robot] units appear <for [1] movement> <costs [650] [Fungus]>",
+					"[1] free [Nuclear Submarine] units appear <for [1] movement> <costs [600] [Fungus]>"]
+    },
+	{
+        "name": "Fungal Farm I",
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 5 [Fungus] per turn]",
+					"Consumes [-5] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm II",
+		"prerequisites": ["Fungal Farm I"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 5 [Fungus] per turn]",
+					"Consumes [-5] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm III",
+		"prerequisites": ["Fungal Farm II"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 5 [Fungus] per turn]",
+					"Consumes [-5] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm IV",
+		"prerequisites": ["Fungal Farm III"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 10 [Fungus] per turn]",
+					"Consumes [-10] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm V",
+		"prerequisites": ["Fungal Farm IV"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 10 [Fungus] per turn]",
+					"Consumes [-10] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm VI",
+		"prerequisites": ["Fungal Farm V"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 10 [Fungus] per turn]",
+					"Consumes [-10] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm VII",
+		"prerequisites": ["Fungal Farm VI"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 10 [Fungus] per turn]",
+					"Consumes [-10] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm VIII",
+		"prerequisites": ["Fungal Farm VII"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 20 [Fungus] per turn]",
+					"Consumes [-20] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm IX",
+		"prerequisites": ["Fungal Farm VIII"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 20 [Fungus] per turn]",
+					"Consumes [-20] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Fungal Farm X",
+		"prerequisites": ["Fungal Farm IX"],
+		"unitTypes": ["Spore Building"],
+        "uniques": ["Comment [Gain 50 [Fungus] per turn]",
+					"Consumes [-50] [Fungus] <hidden from users>"]
+    },
+	{
+        "name": "Planted",
+        "uniques": ["Comment [Spore Thrower can now attack]",
+					"Instantly consumes [50] [Fungus] <when attacking> <hidden from users>",
+					"[Target Unit] gains the [Fungal Infection] status for [3] turn(s)",
+					"[5] Sight"]
+    },
+	{
+        "name": "Fungal Infection",
+        "uniques": ["Comment [Enemy Undergrove that kill this unit will grant them more Fungus]",
+					"[-10]% Strength <when defending>"]
+    }
+
 ]

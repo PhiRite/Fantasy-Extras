@@ -78,6 +78,7 @@
 			"Nullifies [Science] [in all cities] <hidden from users>",
 			"Nullifies [Gold] [in all cities] <hidden from users>",
 			"Nullifies [Faith] [in all cities] <hidden from users>",
+			"Cannot build [non-[Swarm]] units", 
 					],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
@@ -89,5 +90,45 @@
 			{"test":"Each existing swarmling will slowly drain your [Biomass], ensure that you have enough to feed your army or your swarm will slowly die and gain debuffs"}
         ]
 	},
+	{
+		"name": "Undergrove",
+		"leaderName": "Mycella",
+		"adjective": ["Shroomkin"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Sporemind",
+		
+		"startIntroPart1": "Mykrolith, Sporemind of the Undergrove. From rot to root, your hyphae creep through stone and soul. The undergrowth hungers.",
+		"startIntroPart2": "Will your bloom blot out the sky? Will spore eclipse star? Show them: decay is not death — it is transformation.",
+		
+		"declaringWar": "You will decompose... for us.",
+		"attacked": "Pain is brief. Growth is eternal.",
+		"defeated": "The colony fades... but the spores endure...",
+		"introduction": "I am Mycella, Sporemind of the Undergrove. Long before your empires rose, we were already beneath them.",
+		
+		"neutralHello": "Stillness fosters rot. We thrive in cycles of bloom and wither.",
+		"hateHello": "You stand in the path of our spread. That is unwise.",
+		"tradeRequest": "Mycelia trade nutrients beneath the soil. You may offer above it.",
+				
+		"outerColor": [183, 122, 214],
+		"innerColor": [48, 35, 56],
+
+		"uniqueName": "Hyper Bloom",
+		"uniques": ["Comment [Can only build 1 city but can capture cities.]",
+					"Comment [Cannot build units from cities.]",
+					"Comment [Gain access to special mushrooms that allow you to create units and do research]",
+					"[-100]% maintenance costs <hidden from users>",
+					"[-100]% maintenance on road & railroads <hidden from users>",
+					"[-100]% maintenance cost for [All] buildings [in your cities] <hidden from users>",
+					"Cannot build [non-[Spore Building]] units"
+					],
+		"cities": ["Fungal Growth"],
+		"civilopediaText": [
+			{"text":"The Coleopteran Swarm is not a nation — it is a directive. Propagation is their law, From desert cracks to city ruins, they grow. Every death feeds the Swarm. Every enemy is an opportunity for more."},
+			{"text":"The Swarm must be aggresive yet cautious, the death of the [Swarm Mother] means the death of the swarm"},
+			{"text":"You want quickly find a way to evolve your swarm queen to quickly swarm your enemies"},
+			{"test":"Each existing swarmling will slowly drain your [Biomass], ensure that you have enough to feed your army or your swarm will slowly die and gain debuffs"}
+        ]
+	}
 	
 ]

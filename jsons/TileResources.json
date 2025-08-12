@@ -15,4 +15,12 @@
             "Stockpiled", "Cannot be traded", "Excluded from map editor", "Will not be displayed in Civilopedia"
 		]
 	},
+	{
+		"name": "Fungus",	
+		"resourceType": "Strategic",
+		"uniques": [
+			"Not shown on world screen <for [non-[Undergrove]] Civilizations>", "Doesn't generate naturally",
+            "Stockpiled", "Cannot be traded", "Excluded from map editor", "Will not be displayed in Civilopedia"
+		]
+	},
 ]
