@@ -78,7 +78,6 @@
 			"Nullifies [Science] [in all cities] <hidden from users>",
 			"Nullifies [Gold] [in all cities] <hidden from users>",
 			"Nullifies [Faith] [in all cities] <hidden from users>",
-			"Cannot build [Settler] units", "May not annex cities <when number of [Self Propagator] is less than [1]>",
 					],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
