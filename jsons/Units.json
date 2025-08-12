@@ -35,7 +35,7 @@
 		"replaces": "Settler",
 		"uniqueTo": "Coleopteran Swarm",
 	    	"uniques": ["Comment [Spawns Swarmlings of different types based on current evolution level]",
-			"Founds a new puppet city <for all movement> <if [Palace] is not constructed>",
+			"Founds a new city <for all movement> <if [Palace] is not constructed>",
 			"Comment [Spawn time starts at every 10 turns, some evolutions will reduce the cooldown. Will not spawn units when you have no [Biomass]]",
 			"Comment [Increases damage for every existing Swarmling unit]", "Consumes [-5] [Biomass]",
 			"Comment [The only unit able to destroy cities]",
