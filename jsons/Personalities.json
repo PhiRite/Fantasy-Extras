@@ -59,6 +59,40 @@
 			"Piety": 40,
 			"Autocracy": 20,
 		},
+		"uniques": ["Will not build [Buildings]"],
+		"civilopediaText": [
+			{"text": "."}
+		]
+	},
+	{
+		"name": "Mycella",
+		"preferredVictoryType": "Domination",
+		
+		//Stats
+		"culture": 4,
+		"faith": 8,
+		"science": 4,
+		"food": 4,
+		"gold": 4,
+		"happiness": 3,
+		"production": 5,
+		
+		//Behaviour
+		"military": 10,
+		"aggressive": 6,
+		"declareWar": 6,
+		"commerce": 2,
+		"diplomacy": 6,
+		"loyal": 1,
+		"expansion": 10,
+		
+		"priorities": {
+			"Honor": 30,
+            		"Liberty": 30,
+			"Piety": 40,
+			"Autocracy": 20,
+		},
+		"uniques": ["Will not build [Buildings]"],
 		"civilopediaText": [
 			{"text": "."}
 		]
