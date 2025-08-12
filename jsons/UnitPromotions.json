@@ -43,12 +43,6 @@
 		"uniques": ["Comment [Spawns Swarmling]"]
 	},
 	{
-		"name": "City Devourer",
-		"uniques": ["Comment [Allows Swarm Mother to completely devour a city]",
-			"Comment [Does a nuclear attack]", "Blast radius [0]",
-			"Nuclear weapon of Strength [2]", "Can only attack [City] units"]
-	},
-	{
 		"name": "Volatile Explosive",
 		"uniques": ["Comment [Attacked by a Volatile Swarmling, will deal damage to adjacent units]"]
 	},
@@ -183,6 +177,20 @@
 			"[2] free [Volatile Swarmling] units appear <upon gaining the [Spawning] status> <hidden from users>",
 			"[This Unit] gains the [Spawning] status for [1] turn(s) <for units without [Spawn Cooldown]> <upon turn start> <hidden from users> <when above [0] [Biomass]>",
 			"[This Unit] gains the [Spawn Cooldown] status for [4] turn(s) <upon gaining the [Spawning] status> <hidden from users>",]
+	},
+	{
+		"name": "Self Propagator",
+		"prerequisites": ["Propagation X"],
+		"unitTypes": ["Swarm"],
+		"column": 10,
+		"uniques": ["Comment [Only the Propagation shall remain]", "Instantly consumes [5000] [Biomass] <hidden from users>", "Only available <when above [5000] [Biomass]> <hidden from users>",
+			"Comment [Swarm mother now has a chance 60%/45%/15%/1% to spawn a Juvenile/Corrosive/Volatile/Swarm Mother everytime it gets hit.]",
+			"Comment [Costs 5000 [Biomass]]", "Swarm Upgrade",
+			"[1] free [Juvenile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [60]% chance> <hidden from users>",
+			"[1] free [Corrosive Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [45]% chance> <hidden from users>",
+			"[1] free [Volatile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [15]% chance> <hidden from users>",
+			"[1] free [Swarm Mother] units appear <upon losing at least [1] HP in a single attack> <with [1]% chance> <hidden from users>",
+		]
 	},
 	{
 		"name": "Speed Mutation",
