@@ -2,7 +2,7 @@
         "name": "Global uniques",
         "uniques": [    //Undergrove
                         "[+100]% XP required for promotions <for [Undergrove] units>",
-                        "Remove [non-[Palace]] [Undergrove]"
+                        "Remove [non-[Palace]] [Undergrove]", "Remove [non-[Palace]] [Coleopteran Swarm]"
         ],
         "unitUniques": [
                         //Frostborne
