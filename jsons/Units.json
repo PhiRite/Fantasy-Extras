@@ -21,7 +21,7 @@
 			"[This Unit] heals [50] HP <upon gaining the [Cryostasis] status>",
 			"[This Unit] gains the [Cryostasis Cooldown] status for [14] turn(s) <upon gaining the [Cryostasis] status> <hidden from users>",
 			
-			"[This Unit] gains the [Eternal Freeze] status for [10] turn(s) <for [0] movement> <costs [2500] [Everfrost Crystals]> <for units without [Eternal Freeze Cooldown]> <hidden from users>",
+			"[This Unit] gains the [Eternal Freeze] status for [10] turn(s) <for [0] movement> <costs [2500] [Everfrost Crystals]> <for units without [Eternal Freeze Cooldown]> <when number of [[Eternal Freeze Cooldown] Units] is less than [1]> <hidden from users>",
 			"[This Unit] gains the [Eternal Freeze Cooldown] status for [20] turn(s) <upon gaining the [Eternal Freeze] status> <hidden from users>",],
 		"attackSound": "arrow"
 	},
