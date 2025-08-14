@@ -114,7 +114,7 @@
 		"strength": 20,
 		"cost": 90,
 		"uniqueTo": "Coleopteran Swarm",
-	    	"uniques": ["Comment [A Swarmling with some of the abilities of all other swarmlings but consumes 10 biomass]",
+	    	"uniques": ["Comment [A Swarmling with some of the abilities of all other swarmlings and generates 5 biomass]",
 			"Comment [Increases strength for every 50 Biomass]",
 			"[1] additional attacks per turn", "Blast radius [1]", "Consumes [-5] [Biomass]",
 			"Comment [Gains 3 xp when adjacent to [Swarm Mother].]",
