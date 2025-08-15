@@ -5,7 +5,7 @@
 		"movement": 3,
 		"strength": 5,
 		"rangedStrength": 5,
-		"cost": 90,
+		"cost": 125,
 		"uniqueTo": "Frostborne",
 		"promotions": ["Blessing of Boreas"],
 	    	"uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]",
