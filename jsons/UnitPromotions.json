@@ -2,10 +2,14 @@
 	//Frostborne
 	{
 		"name": "Blessing of Boreas",
-		"uniques": ["Ignores terrain cost", "Comment [Unit gains 5% attack strength, 10% in Permafrost. This effect is doubled for defense]",
-			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>", "May travel on Water tiles without embarking",
-			"[+10]% Strength <when defending> <when fighting in [Permafrost] tiles> <hidden from users>", "[+5]% Strength <when attacking> <when fighting in [Permafrost] tiles> <hidden from users>",
-			"Turn this tile into a [Permafrost] tile <upon entering a [non-[Permafrost]] tile>"]
+		"uniques": ["Ignores terrain cost", 
+			"Comment [Unit gains 5% attack strength, 10% in Permafrost. This effect is doubled for defense]",
+			"Comment [When Eternal Freeze is used, this unit can also start turning tiles into [Permafrost]]",
+			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>", 
+			"[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", 
+			"[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
+			"May travel on Water tiles without embarking <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>",
+			"Turn this tile into a [Permafrost] tile <upon entering a [non-[Permafrost]] tile> <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>"]
 	},
 	{
 		"name": "Eternal Freeze",
