@@ -20,7 +20,7 @@
 		"name": "Frozen Monolith",
 		"uniqueTo": "Frostborne",
 		"maintenance": 0,
-        "cost": 125,
+        "cost": 175,
         "replaces": "Courthouse",
 		"percentStatBonus": {"science": -50, "culture": -50, "gold": -75, "faith": -50, "production": -50, "food": -50},
 		"uniques": ["Costs [500] [Everfrost Crystals]", "[+1 Gold] <for every [11] [[Permafrost] Tiles]>", 
