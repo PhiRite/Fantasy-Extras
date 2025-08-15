@@ -13,8 +13,8 @@
 			"Comment [Can Call the [Eternal Freeze] Buffing ALL units for 10 turns]",
 			"Costs [1000] [Everfrost Crystals]", "Cannot be purchased", "May travel on Water tiles without embarking",
 			"Ignores terrain cost", "Only available <in cities with a [Frozen Monolith]>", "Only available <in cities with a [Obelisk of Permafrost]>",
-			"[+1]% Strength <when attacking> <for every [2] [[Permafrost] Tiles]> <hidden from users>",
-			"[+1]% Strength <when defending> <for every [4] [[Permafrost] Tiles]> <hidden from users>",
+			"[+1]% Strength <when attacking> <for every [10] [[Permafrost] Tiles]> <hidden from users>",
+			"[+1]% Strength <when defending> <for every [20] [[Permafrost] Tiles]> <hidden from users>",
 			"Turn this tile into a [Permafrost] tile <upon entering a [non-[Permafrost]] tile>",
 			
 			"[This Unit] gains the [Cryostasis] status for [4] turn(s) <for units without [Cryostasis Cooldown]> <when below [21] HP> <upon losing at least [1] HP in a single attack> <hidden from users>",
