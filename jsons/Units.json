@@ -40,7 +40,7 @@
 			//"Consumes [-5] [Biomass]",
 			"Comment [The only unit able to destroy cities]",
 			"Earn [100]% of the damage done to [All] units as [Biomass]", "[This Unit] gains the [Propagation I] promotion <after turn number [0]> <hidden from users>",
-			"[+15]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization"],
+			"[+15]% Strength <for every [1] [[Swarmling] Units]>", "Limited to [1] per Civilization <when number of [Self Propagator] is less than [1]>"],
 		"attackSound": "metalhit"
 	},
 	{
