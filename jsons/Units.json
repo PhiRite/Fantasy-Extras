@@ -63,7 +63,7 @@
 			"Earn [50]% of the damage done to [All] units as [Biomass]",
 			"[1] free [Juvenile Swarmling] units appear <upon gaining the [Spawning] status> <for [Evolved Swarmling] units>",
 			"[This Unit] gains the [Spawning] status for [1] turn(s) <for [Evolved Swarmling] units> <for units without [Spawn Cooldown]> <costs [100] [Biomass]>",
-			"[This Unit] gains the [Spawn Cooldown] status for [16] turn(s) <for [Evolved Swarmling] units> <upon gaining the [Spawning] status> <hidden from users>",
+			"[This Unit] gains the [Spawn Cooldown] status for [11] turn(s) <for [Evolved Swarmling] units> <upon gaining the [Spawning] status> <hidden from users>",
 			],
 		"attackSound": "metalhit"
 	},
