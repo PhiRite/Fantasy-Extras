@@ -78,7 +78,7 @@
 			"Nullifies [Gold] [in all cities] <hidden from users>",
 			"Nullifies [Faith] [in all cities] <hidden from users>",
 			"Cannot build [non-[Swarm]] units", 
-			//"May not annex cities"
+			"May not annex cities <if [Palace] is not constructed>"
 					],
 		"cities": ["Broodspire", "Chitin Depths", "Larval Cradle", "Molt Bastion", "Sporegard", "Hive Nucleus", "Tunnels of Ruul", 
 					"Verdant Maw", "Carapace Hollow", "Bloomroot Basin", "Fungal Verge", "Creep Expanse", "Silken Expanse", "Burrowhold", 
