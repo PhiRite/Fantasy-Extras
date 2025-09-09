@@ -185,7 +185,7 @@
 			"[This Unit] gains the [Spawn Cooldown] status for [4] turn(s) <upon gaining the [Spawning] status> <hidden from users>",]
 	},
 	{
-		"name": "Self Propagator",
+		"name": "Great Propagator",
 		"prerequisites": ["Propagation X"],
 		"unitTypes": ["Swarm"],
 		"column": 10,
