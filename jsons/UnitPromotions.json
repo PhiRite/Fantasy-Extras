@@ -192,7 +192,7 @@
 		"uniques": ["Comment [Only the Propagation shall remain]", "Instantly consumes [5000] [Biomass] <hidden from users>", "Only available <when above [5000] [Biomass]> <hidden from users>",
 			"Comment [Swarm mother now has a chance 60%/45%/15%/1% to spawn a Juvenile/Corrosive/Volatile/Swarm Mother everytime it gets hit.]",
 			"Comment [Costs 5000 [Biomass]]", "Swarm Upgrade",
-			"[1] free [Juvenile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [60]% chance> <hidden from users>",
+			"[3] free [Juvenile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [60]% chance> <hidden from users>",
 			"[1] free [Corrosive Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [45]% chance> <hidden from users>",
 			"[1] free [Volatile Swarmling] units appear <upon losing at least [1] HP in a single attack> <with [15]% chance> <hidden from users>",
 			"[1] free [Swarm Mother] units appear <upon losing at least [1] HP in a single attack> <with [1]% chance> <hidden from users>",
@@ -238,12 +238,12 @@
 		"name": "Evolved Swarmling",
 		"unitTypes": ["Swarmling"],
 		"row": 6,
-		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 750 [Biomass]]",
+		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 500 [Biomass]]",
 			"Comment [Juvenile Swarmling: Gains the ability to clone itself every 15 turns]",
 			"Comment [Corrosive Swarmling: Gains 1 more attack and range]", "Swarm Upgrade",
 			"Comment [Volatile Swarmling: Gains 1 more blast radius but deals less damage]",
 			"Comment [True Swarmling: Gains the ability to spawn any of the 3 other swarmlings with 10% chance everytime it is hit]",
-			"Instantly consumes [750] [Biomass] <hidden from users>", "Only available <when above [750] [Biomass]> <hidden from users>"
+			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"
 			]
 	},
 	//Undergrove
