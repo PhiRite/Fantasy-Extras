@@ -10,7 +10,7 @@
 		"promotions": ["Blessing of Boreas"],
 	    	"uniques": ["Comment [Gains 1 attack strength for every 10 [Permafrost] and 1 defensive strength for every 15 [Permafrost]]",
 			"Comment [Enters [Cryostasis] for 3 turns and heal 50 hp when reaching 10 hp]",
-			"Comment [Can Call the [Eternal Freeze] Buffing ALL units for 10 turns]",
+			"Comment [Can Call the [Eternal Freeze] Buffing ALL units for 10 turns but making them consume 10 [Everfrost Crystals] per turn]",
 			"Costs [1000] [Everfrost Crystals]", "Cannot be purchased", "May travel on Water tiles without embarking",
 			"Ignores terrain cost", "Only available <in cities with a [Frozen Monolith]>", "Only available <in cities with a [Obelisk of Permafrost]>",
 			"[+1]% Strength <when attacking> <for every [10] [[Permafrost] Tiles]> <hidden from users>",
