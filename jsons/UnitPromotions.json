@@ -6,6 +6,8 @@
 			"Comment [Unit gains 5% attack strength, 10% in Permafrost. This effect is doubled for defense]",
 			"Comment [When Eternal Freeze is used, this unit can also start turning tiles into [Permafrost]]",
 			"Comment [When Eternal Freeze is used, this unit also heals 10 hp every turn]",
+			"Gain [-1] [Gold, Science, Faith, Culture, Happiness, Production, Food] <upon turn end>",
+			"Consumes [10] [Everfrost Crystals]",
 			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>", 
 			"[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", 
 			"[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
