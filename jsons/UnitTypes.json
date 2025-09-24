@@ -3,7 +3,7 @@
                 "name": "Swarm",
                 "movementType": "Land",
                 "uniques": ["Ignores terrain cost", "Uncapturable", "Can move after attacking",
-                        "Ignores terrain cost", "[This Unit] heals [15] HP <upon turn end>",
+                        "Ignores terrain cost", "[This Unit] heals [10] HP <upon turn end>",
                         "Heals [25] damage if it kills a unit",
                         "May travel on Water tiles without embarking"]
         },
@@ -12,8 +12,7 @@
                 "movementType": "Land",
                 "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [10] [Biomass]>",
                         "Uncapturable", "Can move after attacking", "Ignores terrain cost",
-                        "[This Unit] heals [10] HP <upon turn end>",
-                        "Heals [10] damage if it kills a unit",
+                        "Heals [15] damage if it kills a unit",
                         "May travel on Water tiles without embarking"]
         },
         {
