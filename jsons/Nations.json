@@ -29,6 +29,7 @@
 			"Comment [[Herald of Everwinter can use [Eternal Freeze], buffing all Land units and buffing all Heralds.]]",
 			"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
+			"[-90]% Production when constructing [Settler] units [in your cities]"
 					],
 		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
