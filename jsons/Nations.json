@@ -30,7 +30,7 @@
 			"Free [Herald of Everwinter] appears <upon constructing [Obelisk of Permafrost]>",
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
 			"[-90]% Production when constructing [Settler] units [in your cities]",
-			"[-15 Gold, -5 Science, -5 Culture, -5 Faith, -1 Happiness, -1 Food] [in capital] <for every [[Blessing of Boreas] Units]> <when number of [[Eternal Freeze] Units] is more than [0]>"
+			"[-10 Gold, -5 Science, -5 Culture, -5 Faith, -1 Happiness, -1 Food] [in capital] <for every [[Blessing of Boreas] Units]> <when number of [[Eternal Freeze] Units] is more than [0]>"
 					],
 		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
