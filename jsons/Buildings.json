@@ -29,7 +29,7 @@
 					"[+1 Production] <for every [15] [[Permafrost] Tiles]> <when number of [[Eternal Freeze] Units] is more than [0]>",
 					"[+1 Production] <for every [30] [[Permafrost] Tiles]> <when number of [[Eternal Freeze] Units] is less than [1]>",
 					"Cannot be purchased <hidden from users>", "Unsellable <hidden from users>", "Never destroyed when the city is captured", 
-					"Only available <in [non-[Capital]] cities> <if [Obelisk of Permafrost] is constructed in all [Capital] cities> <hidden from users>",
+					"Only available <in [non-[Capital]] cities> <hidden from users>",
 					],
 		"requiredTech": "Philosophy",
 		"civilopediaText": [
