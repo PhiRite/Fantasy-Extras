@@ -7,7 +7,7 @@
 			"Comment [When Eternal Freeze is used, this unit can also start turning tiles into [Permafrost]]",
 			"Comment [When Eternal Freeze is used, this unit also heals 10 hp every turn]",
 			"Comment [However, each unit reduces 15 gold, 5 science faith and culture, and 1 happiness when eternal freeze is activated]",
-			"Consumes [10] [Everfrost Crystals]",
+			"Consumes [10] [Everfrost Crystals] <when number of [[Eternal Freeze] Units] is more than [0]> <hidden from users>",
 			"[+10]% Strength <when defending> <hidden from users>", "[+5]% Strength <when attacking> <hidden from users>", 
 			"[+10]% Strength <when defending> <in [Permafrost] tiles> <hidden from users>", 
 			"[+5]% Strength <when attacking> <in [Permafrost] tiles> <hidden from users>",
