@@ -211,8 +211,8 @@
 		"name": "Attack Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 2,
-		"uniques": ["[1] additional attacks per turn", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+		"uniques": ["[1] additional attacks per turn", "Comment [Costs 200 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [200] [Biomass] <hidden from users>", "Only available <when above [200] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Sight Mutation",
@@ -225,14 +225,14 @@
 		"name": "Carapace Mutation",
 		"unitTypes": ["Swarmling"],
 		"row": 4,
-		"uniques": ["[+25]% Strength <when defending>", "Comment [Costs 250 [Biomass]]", "Swarm Upgrade",
-			"Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
+		"uniques": ["[+25]% Strength <when defending>", "Comment [Costs 175 [Biomass]]", "Swarm Upgrade",
+			"Instantly consumes [175] [Biomass] <hidden from users>", "Only available <when above [175] [Biomass]> <hidden from users>"]
 	},
 	{
 		"name": "Efficient Digestion",
 		"unitTypes": ["Swarmling"],
 		"row": 5,
-		"uniques": ["Comment [Reduces biomass consumption by 1]", "Earn [50]% of the damage done to [All] units as [Biomass]", "Comment [Costs 250 [Biomass]]",
+		"uniques": ["Comment [Produces 1 biomassbper turn]", "Earn [100]% of the damage done to [All] units as [Biomass]", "Comment [Costs 250 [Biomass]]",
 			"Swarm Upgrade",
 			"Consumes [-1] [Biomass]", "Instantly consumes [250] [Biomass] <hidden from users>", "Only available <when above [250] [Biomass]> <hidden from users>"]
 	},
@@ -240,12 +240,12 @@
 		"name": "Evolved Swarmling",
 		"unitTypes": ["Swarmling"],
 		"row": 6,
-		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 500 [Biomass]]",
+		"uniques": ["Comment [Each Swarmling gets specific upgrades]", "Comment [Costs 375 [Biomass]]",
 			"Comment [Juvenile Swarmling: Gains the ability to clone itself every 15 turns]",
 			"Comment [Corrosive Swarmling: Gains 1 more attack and range]", "Swarm Upgrade",
 			"Comment [Volatile Swarmling: Gains 1 more blast radius but deals less damage]",
 			"Comment [True Swarmling: Gains the ability to spawn any of the 3 other swarmlings with 10% chance everytime it is hit]",
-			"Instantly consumes [500] [Biomass] <hidden from users>", "Only available <when above [500] [Biomass]> <hidden from users>"
+			"Instantly consumes [375] [Biomass] <hidden from users>", "Only available <when above [375] [Biomass]> <hidden from users>"
 			]
 	},
 	//Undergrove
