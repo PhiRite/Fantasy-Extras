@@ -31,8 +31,8 @@
 			"Free [Herald of Everwinter] appears <upon constructing [Frozen Monolith]>",
 			//"[-100]% Production when constructing [Settler] units [in your cities]",
 			"Cannot build [Settler] units",
-			"May buy [All] units with [Faith] for [3] times their normal Production cost",
-			"May buy [All] buildings with [Faith] for [3] times their normal Production cost"
+			"May buy [{All} {non-[Great Person]}] units with [Faith] for [3] times their normal Production cost",
+			"May buy [{All} {non-[Wonder]}] buildings with [Faith] for [4] times their normal Production cost"
 					],
 		"cities": ["Hall of Boreas", "Skjolheim", "Icerun", "Frosthall", "Glazeforge", "Boreal Hollow", "Hearthdeep", "Snowreach", "Tundrak Hold",
 					"Vinterspire", "Frigid Bastion", "Hoarfell", "Stormcradle", "Rimegate", "Glacier's Rest", "Everbite", "Shardmere", 
