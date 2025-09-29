@@ -10,7 +10,7 @@
         {
                 "name": "Swarmling",
                 "movementType": "Land",
-                "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [10] [Biomass]>",
+                "uniques": ["Ignores terrain cost", "[+1]% Strength <for every [5] [Biomass]>",
                         "Uncapturable", "Can move after attacking", "Ignores terrain cost",
                         "Heals [15] damage if it kills a unit",
                         "May travel on Water tiles without embarking"]
